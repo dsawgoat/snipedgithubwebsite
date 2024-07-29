@@ -1,0 +1,17 @@
+@font-face {
+    font-family: myFont;
+    src: url(classic.ttf);
+}
+
+h1{
+    font-family: myFont;
+}
+
+@font-face {
+    font-family: anotherFont;
+    src: url(2004.ttf);
+}
+
+p{
+    font-family: anotherFont;
+}
